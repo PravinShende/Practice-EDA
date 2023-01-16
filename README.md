@@ -3,6 +3,6 @@
 
 ## This file contains the theroey part of the project 
 
-** so please save all in here! **
+**so please save all in here!**
 
 - git hub
